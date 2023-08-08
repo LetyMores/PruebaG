@@ -10,4 +10,6 @@ package prueba.grupalgit;
  */
 public class Alumnos {
     
+    private String nombre;
+    
 }
