@@ -11,13 +11,5 @@ package prueba.grupalgit;
 public class Alumnos {
     
     private String nombre;
-    private String apellido;
-
-    public Alumnos(String nombre, String apellido) {
-        this.nombre = nombre;
-        this.apellido = apellido;
-    }
-    
-    
     
 }
